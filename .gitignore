@@ -173,3 +173,24 @@ dist
 
 # Finder (MacOS) folder config
 .DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+.venv/
+venv/
+
+# DuckDB
+*.duckdb
+*.duckdb.wal
+
+# Project data (processed)
+data/processed/
+data/live_state/
+
+# Batch log
+batch.log
