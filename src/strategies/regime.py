@@ -22,24 +22,27 @@ class RegimeParams:
     """Tunable thresholds for regime classification."""
 
     # Trend strength: absolute slope threshold for momentum
-    trend_slope_momentum_threshold: float = 0.0005
+    # Calibrated: p50=~0.01, p90=~0.5 for 5s NIFTY bars
+    trend_slope_momentum_threshold: float = 0.3
     # Trend weakness: absolute slope below this = mean-reversion candidate
-    trend_slope_mr_threshold: float = 0.0002
+    trend_slope_mr_threshold: float = 0.15
 
     # Volatility: realized vol must be in this range for momentum
-    vol_min_momentum: float = 0.002
-    vol_max_momentum: float = 0.02
+    # Calibrated: mean=~0.0007, p90=~0.001 for 5s NIFTY bars
+    vol_min_momentum: float = 0.0004
+    vol_max_momentum: float = 0.003
     # Volatility: realized vol range for mean-reversion
-    vol_min_mr: float = 0.001
-    vol_max_mr: float = 0.015
+    vol_min_mr: float = 0.0003
+    vol_max_mr: float = 0.002
 
     # Breadth: advancing pct threshold for momentum confirmation
-    breadth_momentum_threshold: float = 0.55  # >55% advancing for bullish momentum
-    breadth_mr_range: tuple[float, float] = (0.35, 0.65)  # neutral breadth for MR
+    # Calibrated: breadth is often 0 or 1 for 5s bars (binary at this freq)
+    breadth_momentum_threshold: float = 0.60  # >60% advancing for bullish momentum
+    breadth_mr_range: tuple[float, float] = (0.20, 0.80)  # wider neutral band for MR
 
     # Range expansion: high expansion favors momentum
-    range_expansion_momentum: float = 1.3
-    range_expansion_mr_max: float = 1.5  # reject MR if range too expanded
+    range_expansion_momentum: float = 1.2
+    range_expansion_mr_max: float = 2.0  # allow more range for MR
 
     # Session time filters (minutes from open)
     no_trade_first_minutes: int = 2  # skip first 2 minutes (opening chaos)

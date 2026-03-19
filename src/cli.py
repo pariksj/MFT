@@ -228,6 +228,28 @@ def backtest(features: str, config_file: str | None, output: str):
 
 
 @cli.command()
+@click.option("--features", default="./data/processed/features.parquet", help="Feature parquet")
+@click.option("--report", default="./data/processed/backtest_report.json", help="Backtest report JSON")
+@click.option("--output-dir", default="./data/processed/charts", help="Output directory for charts")
+def visualize(features: str, report: str, output_dir: str):
+    """Generate visualization charts from features and backtest report."""
+    from src.visualize import generate_full_report
+
+    feat_path = Path(features)
+    report_path = Path(report)
+
+    if not feat_path.exists():
+        log.error("features_not_found", path=str(feat_path))
+        sys.exit(1)
+    if not report_path.exists():
+        log.error("report_not_found", path=str(report_path))
+        sys.exit(1)
+
+    generate_full_report(feat_path, report_path, Path(output_dir))
+    click.echo(f"Charts saved to {output_dir}/")
+
+
+@cli.command()
 @click.option("--paper/--live", default=True, help="Paper trading mode (default: paper)")
 @click.option("--config-file", default=None, help="Experiment config JSON")
 def paper_trade(paper: bool, config_file: str | None):
