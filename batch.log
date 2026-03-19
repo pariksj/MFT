@@ -1,0 +1,3712 @@
+
+[1/306] NSE:NIFTY50-INDEX 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_NIFTY50-INDEX_2026-03-12_5s.json
+Pausing 4.0s before next...
+
+[2/306] NSE:ADANIENT-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_ADANIENT-EQ_2026-03-12_5s.json
+Pausing 5.3s before next...
+
+[3/306] NSE:ADANIPORTS-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_ADANIPORTS-EQ_2026-03-12_5s.json
+Pausing 4.8s before next...
+
+[4/306] NSE:APOLLOHOSP-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_APOLLOHOSP-EQ_2026-03-12_5s.json
+Pausing 6.8s before next...
+
+[5/306] NSE:ASIANPAINT-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_ASIANPAINT-EQ_2026-03-12_5s.json
+Pausing 3.4s before next...
+
+[6/306] NSE:AXISBANK-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_AXISBANK-EQ_2026-03-12_5s.json
+Pausing 5.3s before next...
+
+[7/306] NSE:BAJAJ-AUTO-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_BAJAJ-AUTO-EQ_2026-03-12_5s.json
+Pausing 3.0s before next...
+
+[8/306] NSE:BAJFINANCE-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_BAJFINANCE-EQ_2026-03-12_5s.json
+Pausing 3.9s before next...
+
+[9/306] NSE:BAJAJFINSV-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_BAJAJFINSV-EQ_2026-03-12_5s.json
+Pausing 3.4s before next...
+
+[10/306] NSE:BEL-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_BEL-EQ_2026-03-12_5s.json
+Pausing 6.7s before next...
+
+[11/306] NSE:BPCL-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_BPCL-EQ_2026-03-12_5s.json
+Pausing 4.7s before next...
+
+[12/306] NSE:BHARTIARTL-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_BHARTIARTL-EQ_2026-03-12_5s.json
+Pausing 6.3s before next...
+
+[13/306] NSE:BRITANNIA-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_BRITANNIA-EQ_2026-03-12_5s.json
+Pausing 4.7s before next...
+
+[14/306] NSE:CIPLA-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_CIPLA-EQ_2026-03-12_5s.json
+Pausing 4.6s before next...
+
+[15/306] NSE:COALINDIA-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_COALINDIA-EQ_2026-03-12_5s.json
+Pausing 3.7s before next...
+
+[16/306] NSE:DRREDDY-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_DRREDDY-EQ_2026-03-12_5s.json
+Pausing 7.0s before next...
+
+[17/306] NSE:EICHERMOT-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_EICHERMOT-EQ_2026-03-12_5s.json
+Pausing 5.8s before next...
+
+[18/306] NSE:GRASIM-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_GRASIM-EQ_2026-03-12_5s.json
+Pausing 4.5s before next...
+
+[19/306] NSE:HCLTECH-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_HCLTECH-EQ_2026-03-12_5s.json
+Pausing 4.3s before next...
+
+[20/306] NSE:HDFCBANK-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_HDFCBANK-EQ_2026-03-12_5s.json
+Pausing 6.5s before next...
+
+[21/306] NSE:HDFCLIFE-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_HDFCLIFE-EQ_2026-03-12_5s.json
+Pausing 5.8s before next...
+
+[22/306] NSE:HEROMOTOCO-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_HEROMOTOCO-EQ_2026-03-12_5s.json
+Pausing 6.9s before next...
+
+[23/306] NSE:HINDALCO-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_HINDALCO-EQ_2026-03-12_5s.json
+Pausing 6.9s before next...
+
+[24/306] NSE:HINDUNILVR-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_HINDUNILVR-EQ_2026-03-12_5s.json
+Pausing 5.2s before next...
+
+[25/306] NSE:ICICIBANK-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_ICICIBANK-EQ_2026-03-12_5s.json
+Pausing 5.0s before next...
+
+[26/306] NSE:ITC-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_ITC-EQ_2026-03-12_5s.json
+Pausing 5.1s before next...
+
+[27/306] NSE:INDUSINDBK-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_INDUSINDBK-EQ_2026-03-12_5s.json
+Pausing 3.9s before next...
+
+[28/306] NSE:INFY-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_INFY-EQ_2026-03-12_5s.json
+Pausing 3.8s before next...
+
+[29/306] NSE:JSWSTEEL-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_JSWSTEEL-EQ_2026-03-12_5s.json
+Pausing 3.5s before next...
+
+[30/306] NSE:KOTAKBANK-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_KOTAKBANK-EQ_2026-03-12_5s.json
+Pausing 4.4s before next...
+
+[31/306] NSE:LT-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_LT-EQ_2026-03-12_5s.json
+Pausing 4.6s before next...
+
+[32/306] NSE:M&M-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_M&M-EQ_2026-03-12_5s.json
+Pausing 3.1s before next...
+
+[33/306] NSE:MARUTI-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_MARUTI-EQ_2026-03-12_5s.json
+Pausing 5.0s before next...
+
+[34/306] NSE:NTPC-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_NTPC-EQ_2026-03-12_5s.json
+Pausing 5.5s before next...
+
+[35/306] NSE:NESTLEIND-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_NESTLEIND-EQ_2026-03-12_5s.json
+Pausing 5.5s before next...
+
+[36/306] NSE:ONGC-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_ONGC-EQ_2026-03-12_5s.json
+Pausing 5.1s before next...
+
+[37/306] NSE:POWERGRID-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_POWERGRID-EQ_2026-03-12_5s.json
+Pausing 6.2s before next...
+
+[38/306] NSE:RELIANCE-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_RELIANCE-EQ_2026-03-12_5s.json
+Pausing 3.6s before next...
+
+[39/306] NSE:SBILIFE-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_SBILIFE-EQ_2026-03-12_5s.json
+Pausing 4.0s before next...
+
+[40/306] NSE:SHRIRAMFIN-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_SHRIRAMFIN-EQ_2026-03-12_5s.json
+Pausing 5.9s before next...
+
+[41/306] NSE:SBIN-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_SBIN-EQ_2026-03-12_5s.json
+Pausing 3.0s before next...
+
+[42/306] NSE:SUNPHARMA-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_SUNPHARMA-EQ_2026-03-12_5s.json
+Pausing 5.4s before next...
+
+[43/306] NSE:TCS-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_TCS-EQ_2026-03-12_5s.json
+Pausing 3.7s before next...
+
+[44/306] NSE:TATACONSUM-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_TATACONSUM-EQ_2026-03-12_5s.json
+Pausing 4.6s before next...
+
+[45/306] NSE:TATAMOTORS-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 0 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 0 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 0 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 0 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 0 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 0 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 0 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 0 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 0 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 0 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 0 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 0 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 0 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 0 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 0 candles
+Saved 0 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_TATAMOTORS-EQ_2026-03-12_5s.json
+Pausing 3.6s before next...
+
+[46/306] NSE:TATASTEEL-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_TATASTEEL-EQ_2026-03-12_5s.json
+Pausing 3.4s before next...
+
+[47/306] NSE:TECHM-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_TECHM-EQ_2026-03-12_5s.json
+Pausing 4.7s before next...
+
+[48/306] NSE:TITAN-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_TITAN-EQ_2026-03-12_5s.json
+Pausing 5.5s before next...
+
+[49/306] NSE:TRENT-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_TRENT-EQ_2026-03-12_5s.json
+Pausing 6.8s before next...
+
+[50/306] NSE:ULTRACEMCO-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_ULTRACEMCO-EQ_2026-03-12_5s.json
+Pausing 3.0s before next...
+
+[51/306] NSE:WIPRO-EQ 2026-03-12
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-12/NSE_WIPRO-EQ_2026-03-12_5s.json
+Pausing 5.9s before next...
+
+Date 2026-03-12 done. Pausing 8.8s before next date...
+
+
+[52/306] NSE:NIFTY50-INDEX 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_NIFTY50-INDEX_2026-03-13_5s.json
+Pausing 5.6s before next...
+
+[53/306] NSE:ADANIENT-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_ADANIENT-EQ_2026-03-13_5s.json
+Pausing 4.4s before next...
+
+[54/306] NSE:ADANIPORTS-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_ADANIPORTS-EQ_2026-03-13_5s.json
+Pausing 6.8s before next...
+
+[55/306] NSE:APOLLOHOSP-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_APOLLOHOSP-EQ_2026-03-13_5s.json
+Pausing 6.5s before next...
+
+[56/306] NSE:ASIANPAINT-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_ASIANPAINT-EQ_2026-03-13_5s.json
+Pausing 6.7s before next...
+
+[57/306] NSE:AXISBANK-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_AXISBANK-EQ_2026-03-13_5s.json
+Pausing 4.7s before next...
+
+[58/306] NSE:BAJAJ-AUTO-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_BAJAJ-AUTO-EQ_2026-03-13_5s.json
+Pausing 4.7s before next...
+
+[59/306] NSE:BAJFINANCE-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_BAJFINANCE-EQ_2026-03-13_5s.json
+Pausing 4.7s before next...
+
+[60/306] NSE:BAJAJFINSV-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_BAJAJFINSV-EQ_2026-03-13_5s.json
+Pausing 3.7s before next...
+
+[61/306] NSE:BEL-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_BEL-EQ_2026-03-13_5s.json
+Pausing 5.2s before next...
+
+[62/306] NSE:BPCL-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_BPCL-EQ_2026-03-13_5s.json
+Pausing 3.8s before next...
+
+[63/306] NSE:BHARTIARTL-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_BHARTIARTL-EQ_2026-03-13_5s.json
+Pausing 4.5s before next...
+
+[64/306] NSE:BRITANNIA-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 298 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4497 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_BRITANNIA-EQ_2026-03-13_5s.json
+Pausing 4.3s before next...
+
+[65/306] NSE:CIPLA-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_CIPLA-EQ_2026-03-13_5s.json
+Pausing 6.7s before next...
+
+[66/306] NSE:COALINDIA-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_COALINDIA-EQ_2026-03-13_5s.json
+Pausing 6.4s before next...
+
+[67/306] NSE:DRREDDY-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_DRREDDY-EQ_2026-03-13_5s.json
+Pausing 5.2s before next...
+
+[68/306] NSE:EICHERMOT-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_EICHERMOT-EQ_2026-03-13_5s.json
+Pausing 4.0s before next...
+
+[69/306] NSE:GRASIM-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_GRASIM-EQ_2026-03-13_5s.json
+Pausing 6.6s before next...
+
+[70/306] NSE:HCLTECH-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_HCLTECH-EQ_2026-03-13_5s.json
+Pausing 3.7s before next...
+
+[71/306] NSE:HDFCBANK-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_HDFCBANK-EQ_2026-03-13_5s.json
+Pausing 5.9s before next...
+
+[72/306] NSE:HDFCLIFE-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_HDFCLIFE-EQ_2026-03-13_5s.json
+Pausing 4.2s before next...
+
+[73/306] NSE:HEROMOTOCO-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_HEROMOTOCO-EQ_2026-03-13_5s.json
+Pausing 3.6s before next...
+
+[74/306] NSE:HINDALCO-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_HINDALCO-EQ_2026-03-13_5s.json
+Pausing 3.2s before next...
+
+[75/306] NSE:HINDUNILVR-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_HINDUNILVR-EQ_2026-03-13_5s.json
+Pausing 5.2s before next...
+
+[76/306] NSE:ICICIBANK-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_ICICIBANK-EQ_2026-03-13_5s.json
+Pausing 3.9s before next...
+
+[77/306] NSE:ITC-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_ITC-EQ_2026-03-13_5s.json
+Pausing 6.4s before next...
+
+[78/306] NSE:INDUSINDBK-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_INDUSINDBK-EQ_2026-03-13_5s.json
+Pausing 3.1s before next...
+
+[79/306] NSE:INFY-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_INFY-EQ_2026-03-13_5s.json
+Pausing 6.1s before next...
+
+[80/306] NSE:JSWSTEEL-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_JSWSTEEL-EQ_2026-03-13_5s.json
+Pausing 3.4s before next...
+
+[81/306] NSE:KOTAKBANK-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_KOTAKBANK-EQ_2026-03-13_5s.json
+Pausing 3.2s before next...
+
+[82/306] NSE:LT-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_LT-EQ_2026-03-13_5s.json
+Pausing 3.9s before next...
+
+[83/306] NSE:M&M-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_M&M-EQ_2026-03-13_5s.json
+Pausing 5.1s before next...
+
+[84/306] NSE:MARUTI-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_MARUTI-EQ_2026-03-13_5s.json
+Pausing 4.5s before next...
+
+[85/306] NSE:NTPC-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_NTPC-EQ_2026-03-13_5s.json
+Pausing 4.7s before next...
+
+[86/306] NSE:NESTLEIND-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_NESTLEIND-EQ_2026-03-13_5s.json
+Pausing 4.9s before next...
+
+[87/306] NSE:ONGC-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_ONGC-EQ_2026-03-13_5s.json
+Pausing 4.4s before next...
+
+[88/306] NSE:POWERGRID-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_POWERGRID-EQ_2026-03-13_5s.json
+Pausing 5.2s before next...
+
+[89/306] NSE:RELIANCE-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_RELIANCE-EQ_2026-03-13_5s.json
+Pausing 6.3s before next...
+
+[90/306] NSE:SBILIFE-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_SBILIFE-EQ_2026-03-13_5s.json
+Pausing 5.1s before next...
+
+[91/306] NSE:SHRIRAMFIN-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_SHRIRAMFIN-EQ_2026-03-13_5s.json
+Pausing 6.3s before next...
+
+[92/306] NSE:SBIN-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_SBIN-EQ_2026-03-13_5s.json
+Pausing 5.2s before next...
+
+[93/306] NSE:SUNPHARMA-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_SUNPHARMA-EQ_2026-03-13_5s.json
+Pausing 3.5s before next...
+
+[94/306] NSE:TCS-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_TCS-EQ_2026-03-13_5s.json
+Pausing 3.9s before next...
+
+[95/306] NSE:TATACONSUM-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_TATACONSUM-EQ_2026-03-13_5s.json
+Pausing 5.4s before next...
+
+[96/306] NSE:TATAMOTORS-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 0 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 0 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 0 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 0 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 0 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 0 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 0 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 0 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 0 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 0 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 0 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 0 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 0 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 0 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 0 candles
+Saved 0 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_TATAMOTORS-EQ_2026-03-13_5s.json
+Pausing 5.4s before next...
+
+[97/306] NSE:TATASTEEL-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_TATASTEEL-EQ_2026-03-13_5s.json
+Pausing 5.9s before next...
+
+[98/306] NSE:TECHM-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_TECHM-EQ_2026-03-13_5s.json
+Pausing 5.5s before next...
+
+[99/306] NSE:TITAN-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_TITAN-EQ_2026-03-13_5s.json
+Pausing 3.4s before next...
+
+[100/306] NSE:TRENT-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_TRENT-EQ_2026-03-13_5s.json
+Pausing 4.1s before next...
+
+[101/306] NSE:ULTRACEMCO-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_ULTRACEMCO-EQ_2026-03-13_5s.json
+Pausing 6.6s before next...
+
+[102/306] NSE:WIPRO-EQ 2026-03-13
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-13/NSE_WIPRO-EQ_2026-03-13_5s.json
+Pausing 6.3s before next...
+
+Date 2026-03-13 done. Pausing 8.9s before next date...
+
+
+[103/306] NSE:NIFTY50-INDEX 2026-03-16
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-16/NSE_NIFTY50-INDEX_2026-03-16_5s.json
+Pausing 4.7s before next...
+
+[104/306] NSE:ADANIENT-EQ 2026-03-16
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-16/NSE_ADANIENT-EQ_2026-03-16_5s.json
+Pausing 3.9s before next...
+
+[105/306] NSE:ADANIPORTS-EQ 2026-03-16
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-16/NSE_ADANIPORTS-EQ_2026-03-16_5s.json
+Pausing 6.5s before next...
+
+[106/306] NSE:APOLLOHOSP-EQ 2026-03-16
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-16/NSE_APOLLOHOSP-EQ_2026-03-16_5s.json
+Pausing 5.0s before next...
+
+[107/306] NSE:ASIANPAINT-EQ 2026-03-16
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-16/NSE_ASIANPAINT-EQ_2026-03-16_5s.json
+Pausing 5.6s before next...
+
+[108/306] NSE:AXISBANK-EQ 2026-03-16
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-16/NSE_AXISBANK-EQ_2026-03-16_5s.json
+Pausing 6.4s before next...
+
+[109/306] NSE:BAJAJ-AUTO-EQ 2026-03-16
+Fetching 9:15:00 AM → 9:40:00 AM
+  Got 301 candles
+Fetching 9:40:00 AM → 10:05:00 AM
+  Got 301 candles
+Fetching 10:05:00 AM → 10:30:00 AM
+  Got 301 candles
+Fetching 10:30:00 AM → 10:55:00 AM
+  Got 301 candles
+Fetching 10:55:00 AM → 11:20:00 AM
+  Got 301 candles
+Fetching 11:20:00 AM → 11:45:00 AM
+  Got 301 candles
+Fetching 11:45:00 AM → 12:10:00 PM
+  Got 301 candles
+Fetching 12:10:00 PM → 12:35:00 PM
+  Got 301 candles
+Fetching 12:35:00 PM → 1:00:00 PM
+  Got 301 candles
+Fetching 1:00:00 PM → 1:25:00 PM
+  Got 301 candles
+Fetching 1:25:00 PM → 1:50:00 PM
+  Got 301 candles
+Fetching 1:50:00 PM → 2:15:00 PM
+  Got 301 candles
+Fetching 2:15:00 PM → 2:40:00 PM
+  Got 301 candles
+Fetching 2:40:00 PM → 3:05:00 PM
+  Got 301 candles
+Fetching 3:05:00 PM → 3:30:00 PM
+  Got 300 candles
+Saved 4500 candles to /Users/pariksj/Desktop/SigiQ/test-data/nifty50/2026-03-16/NSE_BAJAJ-AUTO-EQ_2026-03-16_5s.json
+Pausing 5.5s before next...
