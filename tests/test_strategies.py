@@ -63,8 +63,8 @@ class TestRegime:
     def test_momentum_regime(self):
         features = {
             "or_minutes_elapsed": 60,
-            "trend_slope_60": 0.001,
-            "realized_vol_60": 0.005,
+            "trend_slope_60": 0.5,
+            "realized_vol_60": 0.0008,
             "breadth_advancing_pct": 0.7,
             "range_expansion": 1.5,
         }
@@ -73,8 +73,8 @@ class TestRegime:
     def test_mean_reversion_regime(self):
         features = {
             "or_minutes_elapsed": 60,
-            "trend_slope_60": 0.00005,
-            "realized_vol_60": 0.005,
+            "trend_slope_60": 0.05,
+            "realized_vol_60": 0.0008,
             "breadth_advancing_pct": 0.5,
             "range_expansion": 0.8,
         }
@@ -83,8 +83,8 @@ class TestRegime:
     def test_no_trade_option_liquidity(self):
         features = {
             "or_minutes_elapsed": 60,
-            "trend_slope_60": 0.001,
-            "realized_vol_60": 0.005,
+            "trend_slope_60": 0.5,
+            "realized_vol_60": 0.0008,
             "breadth_advancing_pct": 0.7,
             "range_expansion": 1.5,
             "atm_volume": 10,  # too low
@@ -95,8 +95,8 @@ class TestRegime:
         df = pd.DataFrame(
             {
                 "or_minutes_elapsed": [1, 60, 60],
-                "trend_slope_60": [0, 0.001, 0.00005],
-                "realized_vol_60": [0, 0.005, 0.005],
+                "trend_slope_60": [0, 0.5, 0.05],
+                "realized_vol_60": [0, 0.0008, 0.0008],
                 "breadth_advancing_pct": [0.5, 0.7, 0.5],
                 "range_expansion": [1.0, 1.5, 0.8],
             }
@@ -110,8 +110,8 @@ class TestRegime:
         """Same features should always produce the same regime."""
         features = {
             "or_minutes_elapsed": 60,
-            "trend_slope_60": 0.001,
-            "realized_vol_60": 0.005,
+            "trend_slope_60": 0.5,
+            "realized_vol_60": 0.0008,
             "breadth_advancing_pct": 0.7,
             "range_expansion": 1.5,
         }

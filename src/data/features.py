@@ -140,8 +140,8 @@ def compute_breadth(
     dispersion = rets.std(axis=1)
 
     # Align to index timestamps
-    aligned_adv = advancing.reindex(index_timestamps.values).fillna(method="ffill").fillna(0.5)
-    aligned_disp = dispersion.reindex(index_timestamps.values).fillna(method="ffill").fillna(0.0)
+    aligned_adv = advancing.reindex(index_timestamps.values).ffill().fillna(0.5)
+    aligned_disp = dispersion.reindex(index_timestamps.values).ffill().fillna(0.0)
     aligned_adv.index = index_timestamps.index
     aligned_disp.index = index_timestamps.index
 
