@@ -192,6 +192,7 @@ nifty50/
 banknifty/
 nifty50-options/
 banknifty-options/
+indiavix/
 
 # Parquet exports
 *.parquet

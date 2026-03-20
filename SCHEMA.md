@@ -7,7 +7,7 @@ Database files in this directory:
 
 Resolution: **5-second candles**
 Date range: **2026-03-04 to 2026-03-19** (12 trading days)
-Total rows: **4,327,233**
+Total rows: **4,381,233**
 
 ---
 
@@ -15,7 +15,7 @@ Total rows: **4,327,233**
 
 ### `spot_candles` — Index & Stock 5s OHLCV
 
-1,655,985 rows | 52 symbols | 12 dates
+1,709,985 rows | 53 symbols | 12 dates
 
 | Column | Type | Nullable | Description |
 |--------|------|----------|-------------|
@@ -35,6 +35,7 @@ Total rows: **4,327,233**
 **Symbols included:**
 - `NSE:NIFTY50-INDEX` — NIFTY 50 index (all 12 dates)
 - `NSE:NIFTYBANK-INDEX` — Bank NIFTY index (all 12 dates)
+- `NSE:INDIAVIX-INDEX` — India VIX (all 12 dates)
 - 50 Nifty stocks (e.g. `NSE:RELIANCE-EQ`, `NSE:HDFCBANK-EQ`, etc.) — 7 dates (Mar 11-19)
 
 **Note on timestamps:** All timestamps are UTC. Indian market hours (9:15 AM - 3:30 PM IST) correspond to 3:45 AM - 10:00 AM UTC. To convert to IST in queries: `ts + INTERVAL 5 HOUR 30 MINUTE`.
