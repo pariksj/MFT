@@ -195,7 +195,7 @@ banknifty-options/
 indiavix/
 
 # Parquet exports
-*.parquet
+# *.parquet
 
 # Project data (processed)
 data/processed/
