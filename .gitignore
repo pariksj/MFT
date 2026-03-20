@@ -184,9 +184,17 @@ build/
 .venv/
 venv/
 
-# DuckDB
-*.duckdb
+# DuckDB WAL (temp file)
 *.duckdb.wal
+
+# Market data JSON files (raw) — use DuckDB instead
+nifty50/
+banknifty/
+nifty50-options/
+banknifty-options/
+
+# Parquet exports
+*.parquet
 
 # Project data (processed)
 data/processed/
