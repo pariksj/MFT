@@ -2,7 +2,7 @@
  * build_db.ts — Load all 5s OHLCV data into a structured DuckDB database.
  *
  * Tables:
- *   spot_candles     — NIFTY50-INDEX, NIFTYBANK-INDEX, and Nifty 50 stock 5s candles
+ *   spot_candles     — NIFTY50-INDEX, NIFTYBANK-INDEX, INDIAVIX-INDEX, and Nifty 50 stock 5s candles
  *   option_candles   — NIFTY + BANKNIFTY option chain 5s candles
  *
  * Handles two JSON formats:
@@ -97,7 +97,12 @@ async function main() {
   let optionRows = 0;
 
   // --- Load spot data ---
-  const spotDirs = [join(BASE, "nifty50"), join(BASE, "banknifty")];
+  const spotDirs = [
+    join(BASE, "nifty50"),
+    join(BASE, "nifty50-5s"),
+    join(BASE, "banknifty-5s"),
+    join(BASE, "indiavix-5s"),
+  ];
 
   for (const root of spotDirs) {
     for (const dateDir of dateSubdirs(root)) {
