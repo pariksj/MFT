@@ -193,6 +193,12 @@ banknifty/
 nifty50-options/
 banknifty-options/
 indiavix/
+nifty50-5s/
+banknifty-5s/
+indiavix-5s/
+
+# Local parquet backup
+data/spot_candles.parquet.bak
 
 # Parquet exports
 # *.parquet
